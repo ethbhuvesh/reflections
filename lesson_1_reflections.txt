@@ -1,0 +1,7 @@
+Comparison between two files helped me to easily find out the bug as it gave me specific line to be checked or else I would have had to compare the full code of both the files.
+
+Sometimes we modify our code but end up in crating errors instead of improving the code and hence there is a need to have the older versions of the file too so that we can reuse our old code if we have done something wrong or have made a mistake. 
+
+Manually chosing when to commit has an advantage that we can commit anytime we want and mostly we commit wehen we have made any logical change but sometimes we may forget to commit and that might be a bad thing for us while this thing won't happpen in automatically saved commits. We will have commits for each modification but this is also not good since sometimes we might have not made ny logical change but auto-save keeps on committing and hence we will be having to many commits.
+
+It is better t save multiple files in a commit even when a single file is changed beacuse the files are interrealted to each other and hence we can easily see that which are files can be affected by the change in one file while in other cases it is not bad to save only a single file at a time bacause it will be clear to us which file we have made changes to.
